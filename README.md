@@ -12,7 +12,7 @@
 </h4>
 
 <p >
-    <a href="https://www.linkedin.com/in/matrodrigues123/">Linkedin</a>
+    <a href="https://www.linkedin.com/in/victor-bastos7/">Linkedin</a>
     <br>
     <a href="https://https://github.com/victor-bastos">Github</a>
     <br>
