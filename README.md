@@ -3,7 +3,7 @@
 </strong>
 
 <p>
-    I'm a Brazilian Engineering student with a deep passion for Data Science. Leveraging my strong mathematical background and technical skills gained through my major, I have immersed myself in various Data Science projects and research. My work spans machine learning, predictive modeling, and data analytics, focusing on practical applications like air traffic management and beyond.
+     I'm a Brazilian Engineering student with a deep passion for Data Science. Leveraging my strong mathematical background and technical skills gained through my major, I have immersed myself in various Data Science projects and research. I code with a problem-solving mindset, focusing on creating innovative solutions and automations. My work spans machine learning, predictive modeling, and data analytics, tackling practical challenges like air traffic management and beyond.
 
 </p>
 
